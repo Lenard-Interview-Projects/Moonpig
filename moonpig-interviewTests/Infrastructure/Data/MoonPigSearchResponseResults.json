@@ -1,0 +1,679 @@
+{
+  "SearchId": "H4sIAAAAAAAEACWUyQHDQAgDW+Laq//GMuM87Dh7gJAEuU9WBe93Yr9cnWtyTmTEfVUnV8SL6J2ReV72yV3BMy9vVlRNRnfsiJO5szqN826+qODyxHzvE7yNvDrWDrKQd5pj6bOCXJeIldzLyle5bqxb2dzM/b175SLLDWC8DezqlzWxTsyLJs6JunmPt14ndS3CAr7y3JibZ4BcK5Ldw8ktBuq65CQ4hV9yAScB35RpkTEFyOoGFkTV4oNEixQ1JOLyTpCdnRMmyh1v595xiMlWm5QoAaTNp8AuJQyFVG933gv+ggKmSE+ZPPvFebFNZOHkmjG+20sY8ayFxUvSJnfGRSfoDeLfFbsLQqAowICoKOSZuB4mjrt5YNzre1T5Uy4XfCIl3ijJHCoF6tSCDuq6REsJT1TVJNJeLhJzFhkBGACAh0dNTzWRjxs4Bwi4CvKRZkEpqa9MYqSWnJidhypkDyMSXVNxCy7PlXw8cLATUMHHX47hwKEcIkOyokN1aIPgRmlG1cc56NieVy+IxHVPuo2PqtRwp/p8hgb2oRSU0h4Y5nzOBwDeQDs4gabH93D2Myps4V0o2gmBZASMBzoFjjNHMuUH5Eh/0TGv3WS9pBczFZeltUTx4E+prtZRaEAVAn4KN7Twt0VkGIYNNAMYLVVPsbZF2kG4iPD0IMs5ehu64QY7XSX72nkcAvQ76/P3rQazQFvhaR6ajjowPzCbtrI6pcGupVFLbLTASHp79JsJrX+w2NEYuhUcxO+PNX/oDvzcTgy6rCRQu/JDKLTF7fFZFTVY/CgNJ4b97u4s19+Tt0ubj965nfVZQhIZREvDaEU+iMA4EiSC4mqVNdT9A7DRmAZwvofSlRXPD7uSa8M6fq6YMHDbLMwiIJQz72v/XgL4vmnzT31sXyqKkbZFExZjeEa/fXOSprB2DmCPMjJQvV4u6n9eToDQKWNf0xdNDy6nG7BtOvRyMuhbqb76+1mLpWmrf1M4bxxczGR64PtQtVJrOVs2yDcYmbRUeJxgVA3g9UzX7wcjobPoSAYAAA==",
+  "NumberOfProducts": 13226,
+  "Start": 0,
+  "Products": [
+    {
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Classic Portrait Personalised Photo Upload Card",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 1,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 48939,
+      "MoonpigProductNo": "pu041d",
+      "TradingFaces": 0,
+      "IsLandscape": 0,
+      "ShortDescription": "",
+      "Description": "Classic Portrait Personalised Photo Upload Card<br /><br />Once you've personalised your card or uploaded a photo, and used the handwriting feature on the app, it's time to make their day even brighter by adding flowers and a gift!<br />",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "classic-portrait-personalised-photo-upload-card",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pu041d.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "48939"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/pu041d/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "48939"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.668,
+        "ReviewCount": 7332
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Birthday Card - Graphic Patterns - Photo Upload",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 2,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 91752,
+      "MoonpigProductNo": "gt006",
+      "TradingFaces": 0,
+      "IsLandscape": 0,
+      "ShortDescription": "",
+      "Description": "Happy Birthday Beautiful - Photo upload",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "birthday-card-graphic-patterns-photo-upload",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/gt006.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "91752"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/gt006/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "91752"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.7325,
+        "ReviewCount": 400
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Blue Vertical And Horizontal Grid Photo Upload Happy Father's Day Card",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 8,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 48508,
+      "MoonpigProductNo": "puf087",
+      "TradingFaces": 0,
+      "IsLandscape": 0,
+      "ShortDescription": "",
+      "Description": "Blue Vertical And Horizontal Grid Photo Upload Happy Father's Day Card <br /><br />Once you've personalised your card or uploaded a photo, and used the handwriting feature on the app, it's time to make their day even brighter by adding flowers and a gift!<br />",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "blue-vertical-and-horizontal-grid-photo-upload-happy-fathers-day-card",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf087.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "48508"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/puf087/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "48508"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.7035,
+        "ReviewCount": 226
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Landscape Personalised Photo Upload Greetings Card",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 1,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 49588,
+      "MoonpigProductNo": "pu042b",
+      "TradingFaces": 0,
+      "IsLandscape": 1,
+      "ShortDescription": "",
+      "Description": "Landscape Personalised Photo Upload Greetings Card<br /><br />Once you've personalised your card or uploaded a photo, and used the handwriting feature on the app, it's time to make their day even brighter by adding flowers and a gift!<br />",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "landscape-personalised-photo-upload-greetings-card",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pu042b.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "49588"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/pu042b/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "49588"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.6217,
+        "ReviewCount": 3513
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Birthday Card With Photos - Make Today Amazing. Happy Birthday",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 9,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 82842,
+      "MoonpigProductNo": "pue277",
+      "TradingFaces": 0,
+      "IsLandscape": 0,
+      "ShortDescription": "",
+      "Description": "Birthday Card With Photos - Make Today Amazing. Happy Birthday - Photo Upload - Happy Birthday",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "birthday-card-with-photos-make-today-amazing-happy-birthday",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue277.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "82842"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/pue277/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "82842"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.7901,
+        "ReviewCount": 2372
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Love You Dad Fathers Day Photo Card",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 1,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 82582,
+      "MoonpigProductNo": "puf125",
+      "TradingFaces": 0,
+      "IsLandscape": 0,
+      "ShortDescription": "",
+      "Description": "Love You Dad Fathers Day Photo Card<br><br>Once you've personalised your card or uploaded a photo, and used the handwriting feature on the app, its time to make their day even brighter by adding flowers and a gift!",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "love-you-dad-fathers-day-photo-card",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf125.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "82582"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/puf125/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "82582"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.7527,
+        "ReviewCount": 93
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Photo Father's Day Card - Use your own photo to make a personalised father's day card",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 1,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 81532,
+      "MoonpigProductNo": "puf124",
+      "TradingFaces": 0,
+      "IsLandscape": 0,
+      "ShortDescription": "",
+      "Description": "Photo Father's Day Card - Use your own photo to make a personalised father's day card",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "photo-fathers-day-card-use-your-own-photo-to-make-a-personalised-fathers-day-card",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf124.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "81532"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/puf124/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "81532"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.7778,
+        "ReviewCount": 171
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Peppa Pig To A Very Special Daddy Happy Father's Day Photo Card",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 5,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 96134,
+      "MoonpigProductNo": "pep124",
+      "TradingFaces": 0,
+      "IsLandscape": 0,
+      "ShortDescription": "",
+      "Description": "Peppa Pig To A Very Special Daddy Happy Father's Day Photo Card<br><br>Whether it's for good 'ol Dad and your favourite uncle or your two dads and puppy papa, show him all the love this Father's Day. Once you've personalised your Father's Day card or uploaded one of your favourite photos together, and used the handwriting feature on the app, it's time to make his day even brighter by adding flowers or a gift!",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "peppa-pig-to-a-very-special-daddy-happy-fathers-day-photo-card",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pep124.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "96134"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/pep124/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "96134"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 5,
+        "ReviewCount": 1
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Photo Upload Card",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 15,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 49004,
+      "MoonpigProductNo": "pue184",
+      "TradingFaces": 0,
+      "IsLandscape": 0,
+      "ShortDescription": "",
+      "Description": "Use your own pictures and messages to create a perfect personalised photo birthday card - 15 photos design",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "photo-upload-card",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue184.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "49004"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/pue184/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "49004"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.8172,
+        "ReviewCount": 2128
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Funny Side Of Life Traffic Jam Card",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 0,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 77619,
+      "MoonpigProductNo": "rn010",
+      "TradingFaces": 0,
+      "IsLandscape": 1,
+      "ShortDescription": "",
+      "Description": "Funny Side Of Life Traffic Jam Card<br><br>Once you've personalised your card or uploaded a photo, and used the handwriting feature on the app, its time to make their day even brighter by adding flowers and a gift!",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "funny-side-of-life-traffic-jam-card",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/rn010.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "77619"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/rn010/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "77619"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.8125,
+        "ReviewCount": 16
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Super Colourful Love You Daddy Happy Father's Day Photo Card",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 1,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 75213,
+      "MoonpigProductNo": "puf099",
+      "TradingFaces": 0,
+      "IsLandscape": 0,
+      "ShortDescription": "",
+      "Description": "Show Dad tons of love with this super colourful Love You Daddy Happy Father's Day Photo Card. Create a personalised Father's Day card with his name, type an inside message, or add your own handwritten notes using the Moonpig app on iOS. ",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "super-colourful-love-you-daddy-happy-fathers-day-photo-card",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf099.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "75213"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/puf099/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "75213"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.5,
+        "ReviewCount": 62
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "35th Birthday Card - Photo Upload Age Card",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 6,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 72503,
+      "MoonpigProductNo": "pue249",
+      "TradingFaces": 0,
+      "IsLandscape": 0,
+      "ShortDescription": "",
+      "Description": "35th Birthday Card - Photo Upload Age Card. Happy Birthday Andrew! 35",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "35th-birthday-card-photo-upload-age-card",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue249.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "72503"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/pue249/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "72503"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.8335,
+        "ReviewCount": 1742
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Polka Dot Confetti Print Photo Upload Card",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 1,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 84235,
+      "MoonpigProductNo": "col001",
+      "TradingFaces": 0,
+      "IsLandscape": 0,
+      "ShortDescription": "",
+      "Description": "Two Cards Showing Up<br><br>Once you've personalised your card or uploaded a photo, and used the handwriting feature on the app, its time to make their day even brighter by adding flowers and a gift!",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "polka-dot-confetti-print-photo-upload-card",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/col001.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "84235"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/col001/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "84235"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.7356,
+        "ReviewCount": 1229
+      },
+      "AdditionalProductImages": []
+    },
+    {
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
+      "SoldOut": 0,
+      "Title": "Multiple Photo Upload I Love My Dad Card",
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
+      "PhotoUploadCount": 4,
+      "CardShopId": 1,
+      "DirectSmile": false,
+      "DefaultSizeId": 1,
+      "ProductId": 81967,
+      "MoonpigProductNo": "puf130",
+      "TradingFaces": 0,
+      "IsLandscape": 0,
+      "ShortDescription": "",
+      "Description": "Multiple Photo Upload I Love My Dad Card<br><br>Once you've personalised your card or uploaded a photo, and used the handwriting feature on the app, its time to make their day even brighter by adding flowers and a gift!",
+      "IsCustomisable": 1,
+      "IsMultipack": 0,
+      "SeoPath": "multiple-photo-upload-i-love-my-dad-card",
+      "ProductCategoryGroupSeoPath": "personalised-cards/",
+      "ProductLink": {
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf130.json",
+        "Method": "GET",
+        "Rel": "self",
+        "Title": "81967"
+      },
+      "ProductImage": {
+        "Link": {
+          "Href": "https://moonpig.github.io/tech-test-frontend/image/puf130/0.jpg",
+          "Method": "GET",
+          "Rel": "self",
+          "Title": "81967"
+        },
+        "MimeType": "image/jpeg"
+      },
+      "Reviews": {
+        "MinReviewData": 0,
+        "MaxReviewData": 0,
+        "AverageStarReviewRating": 4.9186,
+        "ReviewCount": 86
+      },
+      "AdditionalProductImages": []
+    }
+  ]
+}
